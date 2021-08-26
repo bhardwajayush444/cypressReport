@@ -1,0 +1,21 @@
+{
+  "name": "britecoreautomation2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules\\.bin\\cypress run",
+    "headTest":"npm run test -- --headed",
+    "chromeTest":"npm run test -- --browser chrome",
+    "recordDashboardTest":"npm run test -- --record --key 580bf074-afdf-417d-8a82-d9030f19aad9"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^8.3.0"
+  },
+  "dependencies": {
+    "JSONPath": "^0.11.2",
+    "jsonpath": "^1.1.1"
+  }
+}

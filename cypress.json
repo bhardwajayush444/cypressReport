@@ -1,0 +1,9 @@
+{
+  "env": {
+    "redBus_url": "https://www.redbus.com/",
+    "ecom_url": "https://rahulshettyacademy.com/angularpractice/",
+    "api_url": "https://gorest.co.in/public/v1",
+    "TOKEN": "e63b4720d9dc7d5b05b81cb04688a9570ee47017521aae3acaf7511753e80883"
+  },
+  "projectId": "crbniy"
+}
